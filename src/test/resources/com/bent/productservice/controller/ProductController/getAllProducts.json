@@ -1,0 +1,10 @@
+{
+	"List<ProductResponse>":[
+		{
+			"id":"test",
+			"name":"test",
+			"description":"test",
+			"price":1
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"ProductRequest":{
+		"name":"test",
+		"description":"test",
+		"price":1
+	}
+}
